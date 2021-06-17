@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+        <controlfield tag="001">1</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">0-88781-060-8 (brož.)</subfield>
+        </datafield>
+        <datafield tag="024" ind1=" " ind2=" ">
+            <subfield code="8">zb00026</subfield>
+        </datafield>
+        <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">Binar, Ivan</subfield>
+        </datafield>
+        <datafield tag="245" ind1=" " ind2=" ">
+            <subfield code="a">Kdo, co je pan Gabriel?.</subfield>
+        </datafield>
+        <datafield tag="260" ind1=" " ind2=" ">
+            <subfield code="c">1978</subfield>
+        </datafield>
+        <datafield tag="856" ind1=" " ind2=" ">
+            <subfield code="u">http://muj-antikvariat.cz/kniha/kdo-co-je-pan-gabriel-binar-ivan-1978</subfield>
+        </datafield>
+    </record>
+</collection>
