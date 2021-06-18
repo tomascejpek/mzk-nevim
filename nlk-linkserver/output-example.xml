@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <record>
+        <leader>-----nas--22-----2a-4500</leader>
+        <controlfield tag="001">1</controlfield>
+        <controlfield tag="005">20150923121851.0</controlfield>
+        <controlfield tag="007">cr</controlfield>
+        <controlfield tag="008">-------c2006----------p-s-------------</controlfield>
+        <datafield tag="022" ind1=" " ind2=" ">
+            <subfield code="a">0202-2397</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">!кандинавскаяРDилологияР= Scandinavica</subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://ojs.lib.pu.ru/index.php/CSF</subfield>
+        </datafield>
+    </record>
+    <record>
+        <leader>-----nam--22--------4500</leader>
+        <controlfield tag="001">1</controlfield>
+        <controlfield tag="007">ta</controlfield>
+        <controlfield tag="008">------s----------------s</controlfield>
+        <datafield tag="020" ind1=" " ind2=" ">
+            <subfield code="a">9783860042441</subfield>
+        </datafield>
+        <datafield tag="100" ind1="1" ind2=" ">
+            <subfield code="a">Schug, Alexander</subfield>
+            <subfield code="4">aut</subfield>
+        </datafield>
+        <datafield tag="245" ind1="0" ind2="0">
+            <subfield code="a">&quot;Deutsche Kultur&quot; und Werbung – Studien zur Geschichte der Wirtschaftswerbung
+                von 1918 bis 1945
+            </subfield>
+        </datafield>
+        <datafield tag="856" ind1="4" ind2="1">
+            <subfield code="u">http://www.oapen.org/search?identifier=382633</subfield>
+        </datafield>
+    </record>
+</collection>
